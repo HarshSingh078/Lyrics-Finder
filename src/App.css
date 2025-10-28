@@ -13,15 +13,26 @@ h1 {
 
 .inp {
   border: 2px solid #113a5d;
+  width: 200px;
+  height: 40px;
+  font-size: 16px;
+  text-align: center;
+  margin: 0 10px;
 }
 
 pre {
   font-size: 17px;
   color: #113a5d;
   text-align: center;
+
 }
 
 hr {
   margin-top: 20px;
   width: 60%;
+}
+
+.btn {
+  width: 90px;
+  height: 40px;
 }
